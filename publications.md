@@ -6,9 +6,9 @@ subtitle:
 
 ### A Bayesian approach to the cosmic dipole in radio galaxy surveys: Joint analysis of NVSS & RACS
 
-| Authors: Oyada Oliver; *Mittal, Vasudev*; Lewis, Geraint F.; Murphy, Tara  |
-| Journal: Monthly Notices of the Royal Astronomical Society |
-| Link: [https://doi.org/10.1093/mnras/stae1399](https://doi.org/10.1093/mnras/stae1399) |
+| Authors: Oyada Oliver; *Mittal, Vasudev*; Lewis, Geraint F.; Murphy, Tara  | \
+| Journal: Monthly Notices of the Royal Astronomical Society | \ 
+| Link: [https://doi.org/10.1093/mnras/stae1399](https://doi.org/10.1093/mnras/stae1399) | \ 
 
 | **Abstract:** |
 |:-----:|
