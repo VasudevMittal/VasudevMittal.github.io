@@ -20,20 +20,16 @@ subtitle:
 
 **Specialized Coursework**
 ------------------------------------------------------------------------
-**Cosmology:** General Relativity; Relativistic Cosmology & Early Universe
-
-**Astrophysics:** Astrophysical Process & Stars; Galaxies & Structure formation
-
+**Cosmology:** General Relativity; Relativistic Cosmology & Early Universe \
+**Astrophysics:** Astrophysical Process & Stars; Galaxies & Structure formation \
 **Physics:** Atomic Physics; Lasers; ; Quantum Field Theory; Particle Physics; Mathematical Methods (Group Theory and Lie Algebra); Fluids
 
 -----------------------------------------------------------------------
 
 **Technical Skills**
 ------------------------------------------------------------------------
-**Programming Languages:** Python, Julia, Matlab, Mathematica
-
-**HPC Computing Inteface:** Slurm, HTCondor
-
+**Programming Languages:** Python, Julia, Matlab, Mathematica \
+**HPC Computing Inteface:** Slurm, HTCondor \
 **General Skills:** Linux, LATEX, Obsidian
 
 -----------------------------------------------------------------------
