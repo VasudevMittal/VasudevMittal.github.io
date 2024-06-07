@@ -15,7 +15,7 @@ Published on June 5, 2024 \
 **Authors:** *Mittal, Vasudev*
 **Supervisor:** Lewis, Geraint F.  \
 **Submitted to:** Indian Insititute of Science Education and Research Mohali \
-*Link*: [Master's Thesis](.../assets/MittalV_Thesis.pdf) \
+*Link*: [Master's Thesis](https://github.com/VasudevMittal/vasudevmittal.github.io/blob/master/assets/MittalV_Thesis.pdf) \
 **Abstract:** The Cosmological Principle asserts that the universe is isotropic and homogeneous on large scales and attributes the Cosmic Microwave Background (CMB) thermal dipole to our departure from the local Hubble flow. If this attribution is correct, then surveys of cosmological sources should show a similar dipole in their sky distribution. However, recent studies have found a disagreement between the kinematic expectations and the observed clustering dipole, with claims reaching well over 5σ! This thesis aims to study this tension between the kinematic dipole and the matter dipoles.
 
 ### The Cosmic Dipole in the Quaia Sample of Quasars: A Bayesian Analysis
