@@ -20,6 +20,11 @@ author: Vasudev Mittal
 ###############################################
 
 navbar-links:
+
+  CV: 
+    - Academics: "AcademicCV"
+    - Research: "ResearchCV"
+    
   Research Outputs: 
     - Publications: "publications"
     - Conference presentations: "conference_presentations"
