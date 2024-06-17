@@ -9,12 +9,13 @@ subtitle:
 
 |**Duration**           |**Program Details and Institution**                                         | Grades  |
 |:----------------------:|:-------------------------------------------------------------------------:|:----------:|
+|                          | **Indian Institute of Science Education and Research(IISER), Mohali, India** |              |
 |  August 2019- June 2024  |  *Bachelor of Science - Masters of Science (BS-MS)*                      | *9.74/10.0*  |
 |                          |  *Physics Majors with Astronomy Minor*                                   |              |
-|                          | **Indian Institute of Science Education and Research(IISER), Mohali, India** |              |
-|                          |                                                                          |
-|               May 2019   | *All India Senior School Certificate Examination*                        |  *97%/100%*  |
+|                          |                                                                          |              |
 |                          |**Central Board of Secondary Education (CBSE)**                          |              |
+|               May 2019   | *All India Senior School Certificate Examination*                        |  *97%/100%*  |
+
 
 ----------------------------------------------------------------------
 
