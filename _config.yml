@@ -29,8 +29,9 @@ navbar-links:
     - Publications: "publications"
     - Preprints: "preprints"
     - In preparation: "preparation"
-  Talks:
-    - Conference presentations: "conference_presentations"
+  Academic Presentations:
+    - Conferences: "conference_presentations"
+    - Miscelleneous: "Othertalks"
     
 
 ################
