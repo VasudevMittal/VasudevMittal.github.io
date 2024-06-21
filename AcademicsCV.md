@@ -38,6 +38,7 @@ subtitle:
 **Significant Academic Achievements**
 ------------------------------------------------------------------------
 - **Lindau Nobel Laureates Meeting 2024**, selected as a young scientist participant for the meeting
+- **DAAD-WISE Fellowship 2023 (~150 selections out of ~5000 applicants)**, awarded by the German academic exchange service for undertaking summer research in Germany.
 - **All India Rank 49 in CSIR-NET (Physics, 34000 applicants)**, the National eligibility test for Assistant Professorship,
   also eligible for becoming a Junior Research Fellow with CSIR.
 - **Silver Honor and First in Merit** for obtaining highest marks in the quantum field theory course offered by National
