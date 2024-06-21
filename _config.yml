@@ -27,9 +27,10 @@ navbar-links:
     
   Research Outputs: 
     - Publications: "publications"
-    - Conference presentations: "conference_presentations"
     - Preprints: "preprints"
     - In preparation: "preparation"
+  Talks:
+    - Conference presentations: "conference_presentations"
     
 
 ################
