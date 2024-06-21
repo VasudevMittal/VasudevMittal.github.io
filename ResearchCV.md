@@ -40,44 +40,39 @@ subtitle:
 *Duration: May 2020 - July 2020*\
 **Abstract:** This project involved the study of black holes with the help of gravitational waves. A 2-body system of black holes with one of undetermined parameters and another with parameters of Sgr-A* were simulated in python, and the waves produced from their merger were fitted to the available GW data to determine the unknown parameters of the companion.
 
+-----------------------------------------------------------------------
 
-
-|**Duration**           |**Program Details and Institution**                                         | Grades  |
-|:----------------------:|:-------------------------------------------------------------------------:|:----------:|
-|                          | **Indian Institute of Science Education and Research(IISER), Mohali, India** |              |
-|  August 2019- June 2024  |  *Bachelor of Science - Masters of Science (BS-MS)*                      | *9.74/10.0*  |
-|                          |  *Physics Majors with Astronomy Minor*                                   |              |
-|                          |                                                                          |              |
-|                          |**Central Board of Secondary Education (CBSE)**                          |              |
-|               May 2019   | *All India Senior School Certificate Examination*                        |  *97%/100%*  |
-
-
-----------------------------------------------------------------------
-
-**Specialized Coursework**
+**Technical Training**
 ------------------------------------------------------------------------
-**Cosmology:** General Relativity; Relativistic Cosmology & Early Universe \
-**Astrophysics:** Astrophysical Process & Stars; Galaxies & Structure formation \
-**Physics:** Atomic Physics; Lasers; ; Quantum Field Theory; Particle Physics; Mathematical Methods (Group Theory and Lie Algebra); Fluids
+- **LIGO Laser Stabilisation using PDH Locking**, under Dr. Suresh Doravai, LIGO India (2022).\
+- **Detection of water on Moon's north pole**, under Er. Deepak Putrevu, ISRO (2021).
 
 -----------------------------------------------------------------------
 
-**Technical Skills**
+**Visiting Positions for Research Projects**
 ------------------------------------------------------------------------
-**Programming Languages:** Python, Julia, Matlab, Mathematica \
-**HPC Computing Inteface:** Slurm, HTCondor \
-**General Skills:** Linux, LATEX, Obsidian
-
+- *Visiting Research Student* at The University of Sydney, Australia. (Aug-Nov 2023)\
+- *DAAD-WISE Fellow* at Bielefeld University, Germany. (May-July 2023)\
+- *Visiting Student* at Inter University Center for Astronomy and Astrophysics. (May-July 2022)\
+- *Science Academy Summer Research Fellow* at Shiv Nadar University, India. (June-Aug 2021)\
+- *ISRO-TREES Fellow* in the Indian Space Research Organization, India. (May-Sep 2021)
+  
 -----------------------------------------------------------------------
 
-**Significant Academic Achievements**
+**Schools and Workshops Attended**
 ------------------------------------------------------------------------
-- **Lindau Nobel Laureates Meeting 2024**, selected as a young scientist participant for the meeting
-- **All India Rank 49 in CSIR-NET (Physics, 34000 applicants)**, the National eligibility test for Assistant Professorship,
-  also eligible for becoming a Junior Research Fellow with CSIR.
-- **Silver Honor and First in Merit** for obtaining highest marks in the quantum field theory course offered by National
-  Programme on Technology Enhanced Learning, Government of India.
-- **Listed in Top-3 students in physics majors** for obtaining highest grades in the class of 2024. (Individual rank is not disclosed to the students)
-- **Certificate of Academic Excellence (IISER Mohali)** for obtaining 10 SPI in the 5th Semester.
-- **CNR Rao Education Foundation Prize** for obtaining 10 SPI in the 1st and 2nd Semester.
-- Listed among the **top 1 % (all India)** in Class XII (Sr. Sec. High School) CBSE Board Examination 2019 with a percentage of 97%.
+- *73 Lindau Nobel Laureate Meeting (Physics)*, organized by the Lindau Council (July 2024).\
+- *17 Kosmologietag*, organized by the ZiF-Bielefeld University, Germany. (June 2023).\
+- *Less Traveled Path to the Dark Universe*, organized by the ICTS-TIFR, India. (March 2023).\
+- *Asian Science Camp 2022*, organized by the ASC association and IBS, South Korea (July 2022).\
+- *International Summer School on the ISM*, organized by the CNRS, France (July 2021).\
+- *National Science Camp 2019*, organized by DST-INSPIRE at IISER Kolkata (December 2019).
+
+  -----------------------------------------------------------------------
+
+**Membership of Academic Bodies**
+------------------------------------------------------------------------
+- *Life Member* of the Indian Association for General Relativity and Gravitation (IAGRG).\
+- *Life Member* of the Indian Association of Physics Teachers (IAPT).\
+- *Member* of the Astronomical Society of India (ASI).\
+- *Student Fellow* of the INSPIRE Program, Government of India.
