@@ -44,35 +44,35 @@ subtitle:
 
 **Technical Training**
 ------------------------------------------------------------------------
-- **LIGO Laser Stabilisation using PDH Locking**, under Dr. Suresh Doravai, LIGO India (2022).\
+- **LIGO Laser Stabilisation using PDH Locking**, under Dr. Suresh Doravai, LIGO India (2022).
 - **Detection of water on Moon's north pole**, under Er. Deepak Putrevu, ISRO (2021).
 
 -----------------------------------------------------------------------
 
 **Visiting Positions for Research Projects**
 ------------------------------------------------------------------------
-- *Visiting Research Student* at The University of Sydney, Australia. (Aug-Nov 2023)\
-- *DAAD-WISE Fellow* at Bielefeld University, Germany. (May-July 2023)\
-- *Visiting Student* at Inter University Center for Astronomy and Astrophysics. (May-July 2022)\
-- *Science Academy Summer Research Fellow* at Shiv Nadar University, India. (June-Aug 2021)\
+- *Visiting Research Student* at The University of Sydney, Australia. (Aug-Nov 2023)
+- *DAAD-WISE Fellow* at Bielefeld University, Germany. (May-July 2023)
+- *Visiting Student* at Inter University Center for Astronomy and Astrophysics. (May-July 2022)
+- *Science Academy Summer Research Fellow* at Shiv Nadar University, India. (June-Aug 2021)
 - *ISRO-TREES Fellow* in the Indian Space Research Organization, India. (May-Sep 2021)
   
 -----------------------------------------------------------------------
 
 **Schools and Workshops Attended**
 ------------------------------------------------------------------------
-- *73 Lindau Nobel Laureate Meeting (Physics)*, organized by the Lindau Council (July 2024).\
-- *17 Kosmologietag*, organized by the ZiF-Bielefeld University, Germany. (June 2023).\
-- *Less Traveled Path to the Dark Universe*, organized by the ICTS-TIFR, India. (March 2023).\
-- *Asian Science Camp 2022*, organized by the ASC association and IBS, South Korea (July 2022).\
-- *International Summer School on the ISM*, organized by the CNRS, France (July 2021).\
+- *73 Lindau Nobel Laureate Meeting (Physics)*, organized by the Lindau Council (July 2024).
+- *17 Kosmologietag*, organized by the ZiF-Bielefeld University, Germany. (June 2023).
+- *Less Traveled Path to the Dark Universe*, organized by the ICTS-TIFR, India. (March 2023).
+- *Asian Science Camp 2022*, organized by the ASC association and IBS, South Korea (July 2022).
+- *International Summer School on the ISM*, organized by the CNRS, France (July 2021).
 - *National Science Camp 2019*, organized by DST-INSPIRE at IISER Kolkata (December 2019).
 
   -----------------------------------------------------------------------
 
 **Membership of Academic Bodies**
 ------------------------------------------------------------------------
-- *Life Member* of the Indian Association for General Relativity and Gravitation (IAGRG).\
-- *Life Member* of the Indian Association of Physics Teachers (IAPT).\
-- *Member* of the Astronomical Society of India (ASI).\
+- *Life Member* of Indian Association for General Relativity and Gravitation (IAGRG).
+- *Life Member* of the Indian Association of Physics Teachers (IAPT).
+- *Member* of the Astronomical Society of India (ASI).
 - *Student Fellow* of the INSPIRE Program, Government of India.
